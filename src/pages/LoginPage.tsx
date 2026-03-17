@@ -12,7 +12,7 @@ export default function LoginPage() {
                 <div className="text-center mb-10">
                     <div className="text-5xl mb-4">🏐</div>
                     <h1 className="text-2xl font-bold text-white tracking-tight">
-                        VPAS
+                        V-PAS
                     </h1>
                     <p className="text-slate-400 text-sm mt-1">
                         Volleyball Performance Analysis System
